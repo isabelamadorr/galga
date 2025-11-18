@@ -1,0 +1,44 @@
+{
+    "name": "Galga",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.62",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#FF93C4",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#64A5B9",
+        "#003FAD",
+        "#87F2FF",
+        "#68EED1",
+        "#326FA4",
+        "#49AECA",
+        "#E5CDC4",
+        "#201551",
+        "#000000"
+    ]
+}
